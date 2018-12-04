@@ -1,0 +1,22 @@
+.filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  div:not(:last-child) {
+    padding-right: 10px;
+  }
+
+  .btnContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    button {
+      height: 38px;
+
+      &:disabled {
+        cursor: not-allowed;
+      }
+    }
+  }
+}
