@@ -35,7 +35,7 @@ export default class Table extends React.Component {
     }
 
     if (this.props.author !== '') {
-      result = result && ((item.author + '').toLowerCase().indexOf((this.props.title + '').toLowerCase()) > -1);
+      result = result && ((item.author + '').toLowerCase().indexOf((this.props.author + '').toLowerCase()) > -1);
     }
 
     return result;
