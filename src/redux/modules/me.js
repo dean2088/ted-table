@@ -6,7 +6,6 @@ export const INCREMENT = 'blank/INCREMENT';
 export const LOAD = 'blank/LOAD';
 export const LOAD_SUCCESS = 'blank/LOAD_SUCCESS';
 export const LOAD_FAIL = 'blank/LOAD_FAIL';
-import products from 'sources/products.json';
 
 /**
  * Initial State

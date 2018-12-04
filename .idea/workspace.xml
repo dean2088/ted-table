@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5737a1ce-42dd-4496-9226-405e043bc905" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Filter/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Table/Table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Table/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/__test__/Text.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/App/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/App/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Home/Home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Home/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/helpers/ApiClient.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/helpers/bindDispatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/helpers/history.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/redux/create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/redux/middleware/clientMiddleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/redux/modules/me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/redux/modules/reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sources/style/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
-    </list>
+    <list default="true" id="5737a1ce-42dd-4496-9226-405e043bc905" name="Default" comment="" />
     <ignored path="ted-table.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -520,6 +489,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5737a1ce-42dd-4496-9226-405e043bc905" name="Default" comment="" />
@@ -527,12 +499,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543909319079</updated>
-      <workItem from="1543909320517" duration="104000" />
+      <workItem from="1543909320517" duration="228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104000" />
+    <option name="totallyTimeSpent" value="228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
